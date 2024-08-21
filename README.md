@@ -1,2 +1,2 @@
-# receipts
-Repository with different java project receipts
+# recipes
+Repository with different java project recipes
