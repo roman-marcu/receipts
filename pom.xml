@@ -16,5 +16,6 @@
     <modules>
         <module>maven-run-tests</module>
         <module>maven-checkstyle</module>
+        <module>archunit</module>
     </modules>
 </project>
