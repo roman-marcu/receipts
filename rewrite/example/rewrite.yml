@@ -1,0 +1,8 @@
+---
+type: specs.openrewrite.org/v1beta/recipe
+name: dev.checks.CheckLicenseHeader
+displayName: Add license header
+recipeList:
+  - dev.romanmarcu.common.AddLicenseHeader:
+      licenseText: Copyright ${CURRENT_YEAR} License Header.
+
